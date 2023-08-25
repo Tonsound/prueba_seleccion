@@ -11,4 +11,4 @@ WORKDIR /app
 RUN pip3 install -r requirements.txt
 
 # Run your Python script
-CMD ["python3", "prueba_Ripley.py", "testing.py"]
+CMD ["python3", "prueba_Ripley.py"]
