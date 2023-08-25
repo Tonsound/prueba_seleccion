@@ -1,0 +1,9 @@
+Limpiando house_prices_20230801.parquet se eliminaron 9420 registros
+Limpiando house_prices_20230901.parquet se eliminaron 4643 registros
+Limpiando house_prices_20231001.parquet se eliminaron 4731 registros
+Al agregar el archivo 1 añadieron 21165 registros y se actualizaron 24192 quedando un total de 111745 registros
+Al agregar el archivo 2 añadieron 15674 registros y se actualizaron 29595 quedando un total de 127419 registros
+Se han borrado 10000 propiedades, la fecha de eliminación fué añadida al archivo
+El archivo final tiene 127419 filas de datos
+La suma de todos los valores de la columna precio es: 820304673.0.
+Se ha guardado el archivo final en la carpeta output bajo el nombre de house_prices_final.parquet

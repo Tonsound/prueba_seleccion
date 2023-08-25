@@ -1,0 +1,8 @@
+Al añadir los archivos, se ha modificado solo el precio
+Todos los registros borrados están añadidos al registro final
+Existian 0 registros duplicados
+Se encontraron 0 registros con precio nulo o no numerico
+Los precios del primer archivo estan actualizados en el precio final
+Los precios del segundo archivo estan actualizados en el precio final
+Los precios del tercer archivo estan actualizados en el precio final
+La suma de todos los valores de la columna precio es: 820304673.0.
